@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Muskan Agarwal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Muskan Agarwal - A final year undergraduate student pursuing Electrical Engineering with specialization in COMPUTER SCIENCE from Dayalbagh Educational Institute.
+- 👀 I’m interested in 
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 contact: 9639806040
 - Email- amuskan076@gmail.com
